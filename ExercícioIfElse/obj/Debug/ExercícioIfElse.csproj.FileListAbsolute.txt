@@ -1,0 +1,7 @@
+C:\Users\Mayke\source\repos\ExercícioIfElse\ExercícioIfElse\bin\Debug\ExercícioIfElse.exe.config
+C:\Users\Mayke\source\repos\ExercícioIfElse\ExercícioIfElse\bin\Debug\ExercícioIfElse.exe
+C:\Users\Mayke\source\repos\ExercícioIfElse\ExercícioIfElse\bin\Debug\ExercícioIfElse.pdb
+C:\Users\Mayke\source\repos\ExercícioIfElse\ExercícioIfElse\obj\Debug\ExercícioIfElse.csproj.AssemblyReference.cache
+C:\Users\Mayke\source\repos\ExercícioIfElse\ExercícioIfElse\obj\Debug\ExercícioIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Mayke\source\repos\ExercícioIfElse\ExercícioIfElse\obj\Debug\ExercícioIfElse.exe
+C:\Users\Mayke\source\repos\ExercícioIfElse\ExercícioIfElse\obj\Debug\ExercícioIfElse.pdb
